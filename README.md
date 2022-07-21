@@ -1,5 +1,6 @@
 # Digit-Classifier
-This project aimed to classify handwritten digits (0-9) using Neural Network and Convolutional Neural Network (CNN), using [MNIST Dataset](http://yann.lecun.com/exdb/mnist/).
+This project aimed to classify handwritten digits (0-9) using Neural Network and Convolutional Neural Network (CNN), using [MNIST Dataset](https://en.wikipedia.org/wiki/MNIST_database).
+The dataset can be downloaded from [here](http://yann.lecun.com/exdb/mnist/).
 
 ### Hyperparameters
 | Learning Rate    | 0.001     | 
